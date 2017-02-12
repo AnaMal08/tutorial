@@ -1,0 +1,15 @@
+body {
+    margin:10px;
+}
+
+.border {
+    border: solid green 5px;
+
+   background-color: rgb(226, 167, 252);
+}
+h1 {
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: -3px -3px rgb(0, 243, 0);
+}
